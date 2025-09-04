@@ -17,4 +17,5 @@ Solve Sudoku puzzles, get hints, track your time, and enjoy visual and sound cel
 - **Celebration effects**: flashing green cells and success sound when puzzle is completed.
 - Fully professional and GitHub-ready.
 
----
+
+
